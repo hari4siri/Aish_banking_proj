@@ -7,7 +7,7 @@ import base.base;
 import pages.AddCustomerPage;
 import utilities.HelperMethods;
 
-public class AddCustomerTest extends base
+public class AddCustomerTest extends base {
 	
 	AddCustomerPage acp;
 	HelperMethods help = new HelperMethods();
