@@ -1,0 +1,9 @@
+base\base.class
+tests\AddCustomerTest.class
+tests\HomePageTest.class
+pages\LoginPage.class
+utilities\HelperMethods.class
+reporting\ExtentReport.class
+pages\HomePage.class
+pages\AddCustomerPage.class
+tests\LoginTest.class
